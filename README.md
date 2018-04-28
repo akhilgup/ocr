@@ -7,4 +7,4 @@ Handwritten Character Recognition
 
 3. SVM classifier is used to train and test the data
 
-##Description of data is in datadescribe file##
+##Description of data is in data_describe file##
